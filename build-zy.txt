@@ -1,3 +1,0 @@
-make ARCH=arm64 CROSS_COMPILE=/root/work/tools/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android- -j4 bullhead_defconfig O=out
-
-
